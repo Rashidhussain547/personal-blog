@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/personal-blog/static/css/main.292d7b9f.css",
+    "main.js": "/personal-blog/static/js/main.e64860b1.js",
+    "static/js/415.4d6acbeb.chunk.js": "/personal-blog/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/personal-blog/static/js/787.1ed0c42c.chunk.js",
+    "static/media/ind.png": "/personal-blog/static/media/ind.19b8919d920364eadfc9.png",
+    "static/media/dine.png": "/personal-blog/static/media/dine.d81fe1431f707fb449f5.png",
+    "static/media/mass.png": "/personal-blog/static/media/mass.dcea902f0cb3629c2494.png",
+    "static/media/mass2.png": "/personal-blog/static/media/mass2.fa4e420b711829d15a2d.png",
+    "static/media/resto.png": "/personal-blog/static/media/resto.4aea547fd756347119ee.png",
+    "static/media/AM.png": "/personal-blog/static/media/AM.80a168f659b98880b02b.png",
+    "static/media/home-main.svg": "/personal-blog/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/personal-blog/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/cvImg.PNG": "/personal-blog/static/media/cvImg.f7013db06ee7668ebdc8.PNG",
+    "static/media/CV.pdf": "/personal-blog/static/media/CV.b9ca7c802125c4dfdfc2.pdf",
+    "static/media/sign.png": "/personal-blog/static/media/sign.ca054a1305a851dc421a.png",
+    "static/media/text.png": "/personal-blog/static/media/text.f0c1c73a15acf58d4c2a.png",
+    "static/media/pme.jpg": "/personal-blog/static/media/pme.cab56e83f405eb80e682.jpg",
+    "static/media/home-bg.jpg": "/personal-blog/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/personal-blog/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/personal-blog/index.html",
+    "main.292d7b9f.css.map": "/personal-blog/static/css/main.292d7b9f.css.map",
+    "main.e64860b1.js.map": "/personal-blog/static/js/main.e64860b1.js.map",
+    "415.4d6acbeb.chunk.js.map": "/personal-blog/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/personal-blog/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.292d7b9f.css",
+    "static/js/main.e64860b1.js"
+  ]
+}
