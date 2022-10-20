@@ -106,7 +106,7 @@ function Projects() {
               title="Signup page with validation"
               description="Sign up form with complete validation and regular expression for user guid."
               link="https://github.com/Rashidhussain547/Sign-up-form"
-              link2="https://rashidhussain547.github.io/Sign-up-form/"
+              link2="#"
             />
           </Col>
         </Row>
