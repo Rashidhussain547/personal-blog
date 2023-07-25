@@ -10,6 +10,11 @@ import mass from "../../Assets/Projects/mass.png";
 import resto from "../../Assets/Projects/resto.png";
 import sign from "../../Assets/Projects/sign.png";
 import ind from "../../Assets/Projects/ind.png";
+import estate from "../../Assets/Projects/RE.png";
+import grocery from "../../Assets/Projects/bud.png";
+import medic from "../../Assets/Projects/medic.png";
+import imdb from "../../Assets/Projects/imdb.png"
+
 
 function Projects() {
   return (
@@ -107,6 +112,72 @@ function Projects() {
               description="Sign up form with complete validation and regular expression for user guid."
               link="https://github.com/Rashidhussain547/Sign-up-form"
               link2="https://rashidhussain547.github.io/Sign-up-form/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={imdb}
+              isBlog={false}
+              title="IMDB clone"
+              description="Its a imdb clone which create on react and also use API."
+              link="https://github.com/Rashidhussain547/Imdb-clone"
+              link2="https://imdb-clone-peach-rho.vercel.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={estate}
+              isBlog={false}
+              title="Real estate business website but it is not responsive"
+              description="Its a university assignment just make a layout which was assined by class teacher."
+              link="https://github.com/Rashidhussain547/Web-template"
+              link2="#"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+             
+              isBlog={false}
+              title="Accounting project"
+              description="Its a university project based on accounting and we use some functionality to perform or create balance sheet ,
+              general entries and more calloborate with classmate Aman."
+              link="https://github.com/Rashidhussain547/Accounting"
+              link2="#"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={grocery}
+              isBlog={false}
+              title="Grocery Bud"
+              description="It just like a to do list for listing your grocery items and more."
+              link="https://github.com/Rashidhussain547/Grocery-Bud"
+              link2="https://rashidhussain547.github.io/Grocery-Bud/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={medic}
+              isBlog={false}
+              title="Medic care clinic website"
+              description="Its a clinic information website with complete responsive."
+              link="https://github.com/Rashidhussain547/Medic-care"
+              link2="https://rashidhussain547.github.io/Medic-care/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              
+              isBlog={false}
+              title="GPA calculator using C#"
+              description="Its a gpa calculator for University students i create for my department UBIT."
+              link="https://github.com/Rashidhussain547/Gpa-calculator"
+              link2="#"
             />
           </Col>
         </Row>
